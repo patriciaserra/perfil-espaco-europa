@@ -7,7 +7,7 @@ body {
 header {
 	text-align: center;
 	padding: 120px 10px;
-	background-image: url(images/sea.jpg);
+	background-image: url(Images/sea.jpg);
 	background-size: cover;
 	background-position: center;
 }
